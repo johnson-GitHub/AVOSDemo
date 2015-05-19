@@ -1,0 +1,8 @@
+{
+    "applicationName" : "AVOSDemo",
+    "applicationId": "pub1lsetqpq5f4f3gr0twsotil2mlgu99to5y7by2458epfw",
+    "applicationKey": "5p128k8zk42vxgzqk2heupx8fg0x5ae14iimaq5k2fejmphx",
+    "global": {
+        "avVersion": "0.3.1"
+    }
+}
